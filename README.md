@@ -16,6 +16,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -29,11 +31,31 @@
 
 ---
 
+## 🚀 Projects
+
+Here are a few highlighted projects:
+
+- [🔗 onclecalvin.netlify.app](https://onclecalvin.netlify.app) – My professional portfolio  
+- [🔧 GitHub Profil Customizer](https://github.com/JesusFarelCalvin-h/JesusFarelCalvin-h) – This very profile  
+- *(More coming soon...)*
+
+---
+
 ## 🔥 GitHub Stats
 
 ![Farel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusFarelCalvin-h&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusFarelCalvin-h&layout=compact&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=JesusFarelCalvin-h&color=blue)
+
+---
+
+## 🏆 Certifications & Learning Badges
+
+![Udemy](https://img.shields.io/badge/Udemy-Courses-orange?style=for-the-badge&logo=Udemy&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-Learning-blue?style=for-the-badge&logo=Coursera&logoColor=white)
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn-Learning-blue?style=for-the-badge&logo=Linkedin&logoColor=white)
 
 ---
 
@@ -41,8 +63,8 @@
 
 - 🌐 [My Portfolio](https://onclecalvin.netlify.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/farel-andjandji-19719328b)
-- 📧 farelandjandji@gmail.com
 - 📘 [Facebook](https://www.facebook.com/JesusFarelCalvin)
+- 📫 farelandjandji@gmail.com
 
 ---
 
