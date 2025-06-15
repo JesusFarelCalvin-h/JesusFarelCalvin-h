@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Farel Andjandji (a.k.a Oncle Calvin)
 
+![Welcome](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Junior+IT+Specialist;Data+Engineer+in+Training;Web+Creator+%7C+Graphic+Designer;Passionate+about+Tech+%26+Education)
+
 🎯 Junior IT Specialist | Data Engineer in Training | Web Creator | Graphic Designer  
 📍 Based in Accra, Ghana – Learning, Building and Empowering Others
 
@@ -23,11 +25,11 @@
 - 🛠️ IT Maintenance & Installation  
 - 🎨 Graphic Design (logos, flyers, banners)  
 - 📊 Digital Training (Office, Cybersecurity basics)  
-- 📚 Data Engineering (Python, SQL, ETL, Analysis)
+- 📚 Data Engineering (Python, SQL, ETL, Data Analysis)
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 GitHub Stats
 
 ![Farel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusFarelCalvin-h&show_icons=true&theme=tokyonight)
 
@@ -35,15 +37,20 @@
 
 ---
 
-## 🌍 Find Me
+## 🌍 Let's Connect
 
 - 🌐 [My Portfolio](https://onclecalvin.netlify.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/farel-andjandji-19719328b)
-- 📫 farelandjandji@gmail.com
-- 👉 https://www.facebook.com/JesusFarelCalvin
+- 📧 farelandjandji@gmail.com
+- 📘 [Facebook](https://www.facebook.com/JesusFarelCalvin)
 
 ---
 
-> *"Je crois en une technologie simple, utile et accessible à tous."*  
-> — Calvin 🇨🇫 🇬🇭
+## 💬 Quote
 
+> *"Je crois en une technologie simple, utile et accessible à tous."*  
+> — **Calvin 🇨🇫 🇬🇭**
+
+---
+
+![Thank you](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
