@@ -31,13 +31,11 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-Here are a few highlighted projects:
-
-- [🔗 onclecalvin.netlify.app](https://onclecalvin.netlify.app) – My professional portfolio  
-- [🔧 GitHub Profil Customizer](https://github.com/JesusFarelCalvin-h/JesusFarelCalvin-h) – This very profile  
-- *(More coming soon...)*
+- 🔗 [onclecalvin.netlify.app](https://onclecalvin.netlify.app) – My professional portfolio  
+- 🔧 GitHub Profile Customizer – This profile setup  
+- (More coming soon...)
 
 ---
 
